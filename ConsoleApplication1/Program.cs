@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             Console.WriteLine("hell fom github online");
             Console.WriteLine("Hello from my local i pull my online changes");
             Console.WriteLine("Hello from my local i pull my online changes2222222");
+            Console.WriteLine("26/04/2019 Hello from my local i pull my online changes2222222");
 
         }
     }
